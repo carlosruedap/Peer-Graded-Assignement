@@ -28,7 +28,7 @@ This assignment focuses on essential concepts in data science, including arithme
 
 ## Author
 
-This notebook was created by **[Your Name]**.
+This notebook was created by **Carlos Rueda**.
 
 ## How to Run
 
